@@ -77,7 +77,8 @@ Hi {},
 
 my name is {}! 
 
-I am an Group Management bot.Based on [Eliza](t.me/SLEliza_bot) Written by [IsiraPiumAth](t.me/IsiRAPiumaTH) 
+I am an Group Management bot.
+Based on [Eliza](t.me/SLEliza_bot) Written by [IsiraPiumAth](t.me/IsiRAPiumaTH) 
 
 You can find my list of available commands with /help.
 
