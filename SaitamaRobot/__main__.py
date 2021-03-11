@@ -251,12 +251,13 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="➕Add Edward to Your Group➕",
-                                url="t.me/{}?startgroup=true".format(
-                                context.bot.username)),
-
-                    
-                    ]]))
+                                text="🗄Orginal Source code🗄",
+                                url="https://github.com/AnimeKaizoku/SaitamaRobot",
+                            )
+                        ],
+                    ]
+                ),
+            )
     else:
         update.effective_message.reply_text(
             "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
